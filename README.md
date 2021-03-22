@@ -6,5 +6,5 @@ https://gitlab.gnome.org/jakubiszon26
 # some stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubiszon26&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubiszon26&layout=compact)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubiszon26&layout=compact&count_private=true)
 
