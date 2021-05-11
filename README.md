@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">I'm young programmer from Poland and Open source lover</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakubiszon26" alt="jakubiszon26" /></a> </p>
-
 - 🔭 I’m currently working on [Mast](https://github.com/jakubiszon26/Mast)
 
 - 🌱 I’m currently learning **C++, ReactJS**
