@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *nothing :(*
 
-- 🌱 I’m currently learning **C++, ReactJS**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jakubiszon26](https://github.com/jakubiszon26)
 
