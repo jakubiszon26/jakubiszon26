@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **jakubkolakowski6@linux.pl**
+- 📫 How to reach me **Discord - ✧･ﾟ *✧･ﾟ*Jakub✧･ﾟ *✧･ﾟ*#5970**
 
 
 <h3 align="left">Languages and Tools:</h3>
