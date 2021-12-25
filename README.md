@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">I'm young programmer from Poland and Open source lover</h3>
 
-- 🔭 I’m currently working on [Mast](https://github.com/jakubiszon26/Mast)
+- 🔭 I’m currently working on *nothing :(*
 
 - 🌱 I’m currently learning **C++, ReactJS**
 
