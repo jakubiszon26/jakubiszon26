@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **Discord - ✧･ﾟ *✧･ﾟ*Jakub✧･ﾟ *✧･ﾟ*#5970**
+- 📫 How to reach me **Matrix - @jakubiszon@matrix.org**
 
 
 <h3 align="left">Languages and Tools:</h3>
