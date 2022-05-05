@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on *nothing :(*
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Svelte**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jakubiszon26](https://github.com/jakubiszon26)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Idk, life**
 
 - 📫 How to reach me **Matrix - @jakubiszon@matrix.org**
 
