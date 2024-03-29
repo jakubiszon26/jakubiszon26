@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Idk, life**
 
-- 📫 How to reach me **Matrix - @jakubiszon@matrix.org**
+- 📫 How to reach me **Matrix - @jakubiszox@matrix.org**
 
 
 <h3 align="left">Languages and Tools:</h3>
