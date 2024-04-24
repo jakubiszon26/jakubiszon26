@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">I'm young programmer from Poland and Open source lover</h3>
+<h3 align="center"I love FOSS</h3>
 
 - 🔭 I’m currently working on *nothing :(*
 
