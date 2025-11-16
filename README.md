@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center"I love FOSS</h3>
 
-- 🔭 I’m currently working on *nothing :(*
-
-- 🌱 I’m currently learning **C**
+- 🔭 I’m currently working on Guess The Melody
 
 - 👨‍💻 All of my projects are available at [https://github.com/jakubiszon26](https://github.com/jakubiszon26)
 
 - 💬 Ask me about **Idk, life**
 
-- 📫 How to reach me **Matrix - @jakubiszox@matrix.org**
 
 
 <h3 align="left">Languages and Tools:</h3>
