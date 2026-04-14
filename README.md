@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center"I love FOSS</h3>
 
-- 🔭 I’m currently working on Guess The Melody
+- 🔭 I’m currently working on automating my homelab with Ansible, Terraform and k3s
 
 - 👨‍💻 All of my projects are available at [https://github.com/jakubiszon26](https://github.com/jakubiszon26)
 
